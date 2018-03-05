@@ -1,0 +1,11 @@
+{
+  "name": "express-modulesroute",
+  "version": "1.0.2",
+  "description": "modules route",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Json Cooper",
+  "license": "ISC"
+}
